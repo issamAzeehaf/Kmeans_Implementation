@@ -1,0 +1,8 @@
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/KMeansMapReduce_2dpoints/PointWritable.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/KMeansMapReduce_2dpoints/KmeansReducer.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/oneParam/KmeansMapper.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/oneParam/KmeansReducer.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/KMeansMapReduce_2dpoints/ConnectionToHDFS.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/KMeansMapReduce_2dpoints/KmeansDriver.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/oneParam/KmeansDriver.java
+/home/tarik/Desktop/BDCC2/S4/Big Data/kmeans/src/main/java/ma/enset/KMeansMapReduce_2dpoints/KmeansMapper.java
